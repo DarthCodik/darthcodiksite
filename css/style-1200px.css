@@ -1,0 +1,9 @@
+@media screen and (max-width: 1200px){
+	ul.nav{
+		width: 70%;
+	}
+	#logo{
+		width: 30%;
+		height: 65px;
+	}
+}

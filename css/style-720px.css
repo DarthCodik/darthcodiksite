@@ -1,0 +1,132 @@
+@media screen and (max-width: 768px){
+	.menu{
+		padding: 0;
+		height: 85px;
+		overflow: hidden;
+		transition: 0.5s ease;
+
+	}
+	ul.nav{
+		width: 100%;
+		display: block;
+	}
+
+	#logo{
+		transition: 0.5s ease;
+		width: 70%;
+		height: 90px;
+	}
+
+
+	li{;.luope;;;;;4.
+		width: 100%;
+		display: block;
+		padding: 0;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	.menu:hover{
+		transition: 0.5s ease;
+		height: 260px;
+	}
+
+	.menu:hover #logo{
+		transition: 0.5s ease;
+		margin-left: 15%;
+	}
+
+	.menu:active{
+		transition: 0.5s ease;
+		height: 260px;
+	}
+
+	.menu:active #logo{
+		transition: 0.5s ease;
+		margin-left: 15%;
+	}
+
+	.art{
+		padding-top: 100px;
+	}
+
+
+
+/*About*/
+
+	.aboutCodik{
+		margin-top: 3%;
+	}
+
+	.picture{
+		position: relative;
+		left: 50%;
+		width: 270px;
+		/*margin-top: 5%;*/
+		margin-left: -135px;
+		height: 172px;
+		background-image: url(itlog.png);
+		background-repeat: no-repeat;
+		background-size: cover;
+		float: none;
+	}
+
+	p.heading{
+		width: 90%;
+		font-size: 18px;
+		padding-left: 5%;
+		padding-right: 5%;
+		margin-top: 10%;
+
+	}
+
+	p.about{
+		width: 90%;
+		font-size: 18px;
+		margin-left: 0;
+		margin-top: 3%;
+		padding: 5%;
+	}
+
+
+/*Offers*/
+
+	.offers{
+		width: 100%;
+		text-align: center;
+		margin-left: 0;
+		padding-top: 10%;
+	}
+
+	.offer{
+		font-size: 20px;
+	}	
+
+
+/*PORTFOLIO*/
+	
+	.links{
+		width: 100%;
+		text-align: center;
+		margin-left: 0;
+		margin-top: 20%;
+	}
+
+
+
+/*Footer*/
+
+	.left{
+		width: 100%;
+		float: none;
+	}
+
+	.right{
+		display: none;
+	}
+
+}
+
+
+
+
